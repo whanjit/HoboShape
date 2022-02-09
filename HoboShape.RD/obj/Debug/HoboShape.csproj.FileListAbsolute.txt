@@ -1,0 +1,11 @@
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\bin\Debug\HoboShape.exe.config
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\bin\Debug\HoboShape.exe
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\bin\Debug\HoboShape.pdb
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\obj\Debug\HoboShape.csprojAssemblyReference.cache
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\obj\Debug\HoboShape.frmMain.resources
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\obj\Debug\HoboShape.HBCanvas.resources
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\obj\Debug\HoboShape.Properties.Resources.resources
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\obj\Debug\HoboShape.csproj.GenerateResource.cache
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\obj\Debug\HoboShape.csproj.CoreCompileInputs.cache
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\obj\Debug\HoboShape.exe
+C:\Users\wiwat\Downloads\simple_2D_2185137222010\HoboShape.RD\obj\Debug\HoboShape.pdb
